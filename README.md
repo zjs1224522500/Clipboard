@@ -7,6 +7,9 @@ Some shared resources which are hard to describe.
 ##### TV
 
 #### Tools
+##### Portal
+- 三颗豆子： http://www.bewindoweb.com/dwg.php
+
 ##### Learn
 
 ##### Movie/Music
