@@ -14,7 +14,10 @@ Some shared resources which are hard to describe.
 
 ##### Movie/Music
 - BT Search developed by Java : http://bt.xiandan.in/
-
+- Play Online:
+  - http://www.kk2w.net/
+  - http://www.haitum.cn/ （China）  /  http://www.haitum.com/ (Outside)
+  - http://www.4444.gg/
 ##### Development
 
 
